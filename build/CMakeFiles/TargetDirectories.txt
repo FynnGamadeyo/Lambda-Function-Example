@@ -1,1 +1,0 @@
-/home/nam/Documents/King/Project/2_LambdaFunctionExample/build/CMakeFiles/main.dir
