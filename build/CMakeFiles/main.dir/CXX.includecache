@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nam/Documents/King/Project/2_LambdaFunctionExample/src/Arr.hpp
+functional
+-
+
+/home/nam/Documents/King/Project/2_LambdaFunctionExample/src/main.cpp
+boost/concept_check.hpp
+-
+iostream
+/home/nam/Documents/King/Project/2_LambdaFunctionExample/src/iostream
+Arr.hpp
+/home/nam/Documents/King/Project/2_LambdaFunctionExample/src/Arr.hpp
+
